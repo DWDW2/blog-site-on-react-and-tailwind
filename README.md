@@ -9,7 +9,6 @@
 
 Portfolio for developers is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
-![HomeGif](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/websitegif.gif)
 
 # Features
 
@@ -18,39 +17,6 @@ Portfolio for developers is a simple and minimalistic website to showcase your s
 - Clear React components and tailwind styling.
 - Exact sections that a developer needs to showcase their skills.
 - Clear call to actions.
-
-# Pages
-
-I've kept the pages as simple as possible. Only the required sections are included with minimal content.
-
-## Landing
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/home.png)
-
-## About
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/about.png)
-
-## Projects
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
-
-## Experience
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
-
-## Contact
-
-![Hompage](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
-
-# Tech Stack
-
-The website is built in my favourite Tech Stack and deployed on [Vercel](https://vercel.com)
-
-- [Next.js](https://nextjs.org) for building React Components.
-- [tailwindcss](https://tailwindcss.com) for styling.
-- [React Rough Notation](https://roughnotation.com) for Hero section highlighting.
-- [Vercel](https://vercel.com) for deployments and CI/CD.
 
 # Usage
 
